@@ -81,7 +81,6 @@ RegisterNumber:
 ## Output:
 ![linear regression using gradient descent](sam.png)
 
-<img width="816" height="603" alt="image" src="https://github.com/user-attachments/assets/45c4a9da-2503-4ae6-a8d2-a5a3db4f3eb8" />
+<img width="840" height="610" alt="image" src="https://github.com/user-attachments/assets/97e9eff4-44b9-47fe-b6b9-7703d19bea9e" />
 
-## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
